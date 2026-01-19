@@ -4,3 +4,4 @@ sodo $BASE
 hzbz
 bzb
 gm Builders 
+bm baseposting 
